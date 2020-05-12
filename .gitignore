@@ -1,0 +1,65 @@
+# Construido archivos de aplicación
+* .apk
+* .ap_
+
+# Archivos para ART / Dalvik VM
+* .dex
+
+# Archivos de clase Java
+* .class
+
+# Archivos generados
+bin /
+gen /
+fuera /
+
+# Archivos Gradle
+.gradle /
+construir /
+
+# Archivo de configuración local (ruta sdk, etc.)
+propiedades locales
+
+# Carpeta Proguard generada por Eclipse
+proguard /
+
+# Archivos de registro
+* .log
+
+# Archivos temporales del editor de Android Studio Navigation
+.navigation /
+
+# Android Studio captura la carpeta
+capturas /
+
+# IntelliJ
+* .iml
+.idea / workspace.xml
+.idea / task.xml
+.idea / gradle.xml
+.idea / assetWizardSettings.xml
+.idea / dictionary
+.idea / bibliotecas
+.idea / cachés
+
+# Archivos de almacén de claves
+# Descomente la siguiente línea si no desea registrar los archivos del almacén de claves.
+# * .jks
+
+# Carpeta de compilación nativa externa generada en Android Studio 2.2 y posterior
+.externalNativeBuild
+
+# Servicios de Google (por ejemplo, API o Firebase)
+google-services.json
+
+# Freeline
+freeline.py
+freeline /
+freeline_project_description.json
+
+# fastlane
+fastlane / report.xml
+fastlane / Preview.html
+Fastlane / capturas de pantalla
+fastlane / test_output
+fastlane / readme.md
